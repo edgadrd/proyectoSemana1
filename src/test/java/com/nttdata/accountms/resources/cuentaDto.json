@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "numeroCuenta": "7218602131309359",
+    "saldo": 1000.0,
+    "tipoCuenta": "AHORROS",
+    "clienteId": 1
+  },
+  {
+    "id": 2,
+    "numeroCuenta": "0987654321123456",
+    "saldo": 2000.0,
+    "tipoCuenta": "CORRIENTE",
+    "clienteId": 2
+  }
+  
+]
